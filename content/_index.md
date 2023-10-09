@@ -42,7 +42,7 @@ sections:
       title: Ph.D. in Biostatistics
     - company: Indian Statistical Institute, Kolkata
       company_logo: isi
-      company_url: "isical.ac.in"
+      company_url: "https://www.isical.ac.in/"
       date_end: "2021-05-01"
       date_start: "2019-07-01"
       description: Specialized in Theoretical Statistics
@@ -50,7 +50,7 @@ sections:
       title: Master of Statistics
     - company: Indian Statistical Institute, Kolkata
       company_logo: isi
-      company_url: "isical.ac.in"
+      company_url: "https://www.isical.ac.in/"
       date_end: "2019-05-01"
       date_start: "2016-07-01"
       description: Secured distinction

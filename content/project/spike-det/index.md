@@ -7,7 +7,7 @@ tags:
 - stat-gen
 title: 'Detection of spikes'
 url_code: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/pdf/2302.03157.pdf"
 url_slides: ""
 url_video: ""
 ---

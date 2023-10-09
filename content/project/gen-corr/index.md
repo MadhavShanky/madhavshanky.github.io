@@ -7,7 +7,7 @@ tags:
 - stat-gen
 title: 'Asymptotic inference in genetic association studies using genetic correlations of glycemic traits'
 url_code: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/pdf/2302.03157.pdf"
 url_slides: ""
 url_video: ""
 ---

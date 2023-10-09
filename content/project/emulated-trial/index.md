@@ -7,7 +7,7 @@ tags:
 - health
 title: 'Emulated trials in linked registry-claims data'
 url_code: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/pdf/2302.03157.pdf"
 url_slides: ""
 url_video: ""
 ---
