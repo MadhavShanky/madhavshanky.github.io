@@ -1,7 +1,7 @@
 ---
 date: "2023-03-27"
 external_link: ""
-summary: 
+summary: 'We investigate the effect of benzodiazepines on post-stroke mortality in the elderly on a nationwide scale'
 tags:
 - all
 - health
@@ -11,6 +11,14 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
+
+
+
+_In collaboration with Lidia Moura, Mila Sun, Julianne Brooks, Victor Lomachinsky Torres, Sebastien Haneuse and Mamoon Habib_
+
+
+
+
 
 Older adults receive benzodiazepines for agitation, anxiety, and insomnia after acute ischemic stroke (AIS). No
 trials have been conducted to determine if benzodiazepine use affects poststroke mortality in the elderly. Recent
