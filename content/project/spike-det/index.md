@@ -1,13 +1,13 @@
 ---
-date: "2023-10-27"
+date: "2023-01-27"
 external_link: ""
 summary: 
 tags:
 - all
-- stat-gen
+- statgen
 title: 'Detection of spikes'
 url_code: ""
-url_pdf: "https://arxiv.org/pdf/2302.03157.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 ---

@@ -20,7 +20,7 @@ sections:
         - name: All
           tag: all
         - name: Statistical Genetics
-          tag: stat-gen
+          tag: statgen
         - name: Healthcare
           tag: health
         - name: Other

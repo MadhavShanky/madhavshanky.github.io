@@ -1,13 +1,13 @@
 ---
-date: "2023-11-27"
+date: "2023-02-27"
 external_link: ""
 summary: 
 tags:
 - all
-- stat-gen
+- statgen
 title: 'Asymptotic inference in genetic association studies using genetic correlations of glycemic traits'
 url_code: ""
-url_pdf: "https://arxiv.org/pdf/2302.03157.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
