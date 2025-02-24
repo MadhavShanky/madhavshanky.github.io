@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>statgen | Madhav Sankaranarayanan</title>
+    <link>https://madhav1812.github.io/tag/statgen/</link>
+      <atom:link href="https://madhav1812.github.io/tag/statgen/index.xml" rel="self" type="application/rss+xml" />
+    <description>statgen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://madhav1812.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>statgen</title>
+      <link>https://madhav1812.github.io/tag/statgen/</link>
+    </image>
+    
+    <item>
+      <title>Asymptotic inference in genetic association studies using genetic correlations of glycemic traits</title>
+      <link>https://madhav1812.github.io/project/gen-corr/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://madhav1812.github.io/project/gen-corr/</guid>
+      <description>&lt;p&gt;&lt;em&gt;In collaboration with Rajarshi Mukherjee, Tamar Sofer and Yana Hrytsenko&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Genetics is being increasingly used to study disease biology, for prediction, and for the elucidation of causal relationships between risk factors to health and disease outcomes. A particular problem of interest is the study of the association of genetic determinants of proteins with glycemic traits. These associations would allow us to potentially identify proteins that mediate genetic effects on diabetes, evaluate the potential to predict glycemic traits using genetic determinants of these proteins, and quantify the proportion of the heritability of these traits attributable to the proteins.  Our primary goal is to improve the estimation of these associations using the estimated genetic correlation between proteins and traits. The incorporation of genetic correlations in our analysis posits a &amp;ldquo;constrained&amp;rdquo; association, which requires tailored methodology, particularly in the high dimensional case. We work on the construction and show the optimality of estimators and algorithms for a range of dimensional cases. Finally, we can use these estimated effects on glycemic traits to study polygenic risk scores (PRS) for these traits and assess the proportion of variance that it explains.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Detection of spikes</title>
+      <link>https://madhav1812.github.io/project/spike-det/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://madhav1812.github.io/project/spike-det/</guid>
+      <description>&lt;p&gt;&lt;em&gt;In collaboration with Rajarshi Mukherjee and Soumendu Sundar Mukherjee&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;A problem relevant to large genetic datasets is the detection of population stratification. It is believed that the presence of such stratification manifests in the spectrum of the large genetic matrices as increased eigenvalues, known as “spikes”. We investigate the statistical testing of the presence of these spikes, establishing conditions under which such detection is possible. Additionally, we investigate the behaviour of different tests and make comparisons of the power of these tests in asymptotic regimes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

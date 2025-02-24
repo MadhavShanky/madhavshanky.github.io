@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Madhav Sankaranarayanan</title>
+    <link>https://madhav1812.github.io/</link>
+      <atom:link href="https://madhav1812.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Madhav Sankaranarayanan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://madhav1812.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Madhav Sankaranarayanan</title>
+      <link>https://madhav1812.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://madhav1812.github.io/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://madhav1812.github.io/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Emulated trials in linked registry-claims data</title>
+      <link>https://madhav1812.github.io/project/emulated-trial/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://madhav1812.github.io/project/emulated-trial/</guid>
+      <description>&lt;p&gt;&lt;em&gt;In collaboration with Lidia Moura, Mila Sun, Julianne Brooks, Victor Lomachinsky Torres, Sebastien Haneuse and Mamoon Habib&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Older adults receive benzodiazepines for agitation, anxiety, and insomnia after acute ischemic stroke (AIS). No
+trials have been conducted to determine if benzodiazepine use affects poststroke mortality in the elderly. Recent
+work has concluded that there is no short-term mortality from benzodiazepine use post-acute ischemic stroke
+in a local cohort of patients. We look to extend the analysis of mortality and other important outcomes to the
+Medicare dataset, linked with insurance registry claims. We employ methodology from emulated trials liter-
+ature to construct sophisticated models that account for semi-competing risks and overlapping observation times.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Asymptotic inference in genetic association studies using genetic correlations of glycemic traits</title>
+      <link>https://madhav1812.github.io/project/gen-corr/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://madhav1812.github.io/project/gen-corr/</guid>
+      <description>&lt;p&gt;&lt;em&gt;In collaboration with Rajarshi Mukherjee, Tamar Sofer and Yana Hrytsenko&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Genetics is being increasingly used to study disease biology, for prediction, and for the elucidation of causal relationships between risk factors to health and disease outcomes. A particular problem of interest is the study of the association of genetic determinants of proteins with glycemic traits. These associations would allow us to potentially identify proteins that mediate genetic effects on diabetes, evaluate the potential to predict glycemic traits using genetic determinants of these proteins, and quantify the proportion of the heritability of these traits attributable to the proteins.  Our primary goal is to improve the estimation of these associations using the estimated genetic correlation between proteins and traits. The incorporation of genetic correlations in our analysis posits a &amp;ldquo;constrained&amp;rdquo; association, which requires tailored methodology, particularly in the high dimensional case. We work on the construction and show the optimality of estimators and algorithms for a range of dimensional cases. Finally, we can use these estimated effects on glycemic traits to study polygenic risk scores (PRS) for these traits and assess the proportion of variance that it explains.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Detection of spikes</title>
+      <link>https://madhav1812.github.io/project/spike-det/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://madhav1812.github.io/project/spike-det/</guid>
+      <description>&lt;p&gt;&lt;em&gt;In collaboration with Rajarshi Mukherjee and Soumendu Sundar Mukherjee&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;A problem relevant to large genetic datasets is the detection of population stratification. It is believed that the presence of such stratification manifests in the spectrum of the large genetic matrices as increased eigenvalues, known as “spikes”. We investigate the statistical testing of the presence of these spikes, establishing conditions under which such detection is possible. Additionally, we investigate the behaviour of different tests and make comparisons of the power of these tests in asymptotic regimes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A distribution-free mixed-integer optimization approach to hierarchical modelling of clustered and longitudinal data</title>
+      <link>https://madhav1812.github.io/project/clust-mio/</link>
+      <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://madhav1812.github.io/project/clust-mio/</guid>
+      <description>&lt;p&gt;&lt;em&gt;In collaboration with Intekhab Hossain and Tom Chen&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We create a mixed-integer optimization (MIO) approach for doing cluster-aware regression, i.e. linear regression that takes into account the inherent clustered structure of the data. We compare to the linear mixed effects regression (LMEM) which is the most used current method, and design simulation experiments to show superior performance to LMEM in terms of both predictive and inferential metrics in silico. Furthermore, we show how our method is formulated in a very interpretable way; LMEM cannot generalize and make cluster-informed predictions when the cluster of new data points is unknown, but we solve this problem by training an interpretable classification tree that can help decide cluster effects for new data points, and demonstrate the power of this generalizability on a real protein expression dataset.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Middle Meningeal Artery Embolization in adjunction to surgical evacuation for treatment of subdural hematomas: A nationwide comparison of outcomes with isolated surgical evacuation</title>
+      <link>https://madhav1812.github.io/project/middle-emb/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://madhav1812.github.io/project/middle-emb/</guid>
+      <description>&lt;p&gt;&lt;em&gt;In collaboration with Mirhojjat Khorasanizadeh, Seyed Farzad Maroufi, Rajarshi Mukherjee, Justin M. Moore and Christopher S.Ogilvy&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Surgical evacuation is the standard treatment for chronic subdural hematomas (CSDHs) but is associated with
+a high risk of recurrence and readmission. Middle meningeal artery embolization (MMAE) is a novel treatment
+approach which could be performed upfront or in adjunction to surgical evacuation. MMAE studies are limited
+by small sample sizes. This study aimed to describe and compare outcomes of MMAE in adjunction to surgery
+with those of surgery alone on a national level.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>https://madhav1812.github.io/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://madhav1812.github.io/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://madhav1812.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://madhav1812.github.io/slides/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://madhav1812.github.io/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://madhav1812.github.io/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://madhav1812.github.io/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://madhav1812.github.io/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://madhav1812.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://madhav1812.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

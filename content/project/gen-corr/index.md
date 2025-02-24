@@ -14,7 +14,7 @@ url_video: ""
 
 
 
-_In collaboration with Rajarshi Mukherjee, Tamar Sofer and Yana Hrtsenko_
+_In collaboration with Rajarshi Mukherjee, Tamar Sofer and Yana Hrytsenko_
 
 
 

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>health | Madhav Sankaranarayanan</title>
+    <link>https://madhav1812.github.io/tag/health/</link>
+      <atom:link href="https://madhav1812.github.io/tag/health/index.xml" rel="self" type="application/rss+xml" />
+    <description>health</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://madhav1812.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>health</title>
+      <link>https://madhav1812.github.io/tag/health/</link>
+    </image>
+    
+    <item>
+      <title>Emulated trials in linked registry-claims data</title>
+      <link>https://madhav1812.github.io/project/emulated-trial/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://madhav1812.github.io/project/emulated-trial/</guid>
+      <description>&lt;p&gt;&lt;em&gt;In collaboration with Lidia Moura, Mila Sun, Julianne Brooks, Victor Lomachinsky Torres, Sebastien Haneuse and Mamoon Habib&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Older adults receive benzodiazepines for agitation, anxiety, and insomnia after acute ischemic stroke (AIS). No
+trials have been conducted to determine if benzodiazepine use affects poststroke mortality in the elderly. Recent
+work has concluded that there is no short-term mortality from benzodiazepine use post-acute ischemic stroke
+in a local cohort of patients. We look to extend the analysis of mortality and other important outcomes to the
+Medicare dataset, linked with insurance registry claims. We employ methodology from emulated trials liter-
+ature to construct sophisticated models that account for semi-competing risks and overlapping observation times.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Middle Meningeal Artery Embolization in adjunction to surgical evacuation for treatment of subdural hematomas: A nationwide comparison of outcomes with isolated surgical evacuation</title>
+      <link>https://madhav1812.github.io/project/middle-emb/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://madhav1812.github.io/project/middle-emb/</guid>
+      <description>&lt;p&gt;&lt;em&gt;In collaboration with Mirhojjat Khorasanizadeh, Seyed Farzad Maroufi, Rajarshi Mukherjee, Justin M. Moore and Christopher S.Ogilvy&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Surgical evacuation is the standard treatment for chronic subdural hematomas (CSDHs) but is associated with
+a high risk of recurrence and readmission. Middle meningeal artery embolization (MMAE) is a novel treatment
+approach which could be performed upfront or in adjunction to surgical evacuation. MMAE studies are limited
+by small sample sizes. This study aimed to describe and compare outcomes of MMAE in adjunction to surgery
+with those of surgery alone on a national level.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
