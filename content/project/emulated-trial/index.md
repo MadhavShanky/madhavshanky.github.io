@@ -5,16 +5,16 @@ summary: 'We investigate the effect of benzodiazepines on post-stroke mortality 
 tags:
 - all
 - health
-title: 'Emulated trials in linked registry-claims data'
+title: 'Benzodiazepine initiation effect on mortality among Medicare beneficiaries post Acute Ischemic Stroke'
 url_code: ""
-url_pdf: ""
+url_pdf: "https://www.medrxiv.org/content/10.1101/2024.08.18.24312199v1.full.pdf"
 url_slides: ""
 url_video: ""
 ---
 
 
 
-_In collaboration with Lidia Moura, Mila Sun, Julianne Brooks, Victor Lomachinsky Torres, Sebastien Haneuse and Mamoon Habib_
+_In collaboration with Maria Donahue, Shuo Sun, Julianne Brooks, Lee Schwamm, Joseph Newhouse, John Hsu, Deborah Blacker, Sebastien Haneuse and Lidia Moura_
 
 
 

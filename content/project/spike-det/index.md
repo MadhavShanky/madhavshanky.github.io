@@ -5,7 +5,7 @@ summary: 'We prove certain limits of testing for spikes in random matrices, a pr
 tags:
 - all
 - statgen
-title: 'Detection of spikes'
+title: 'Minimax detection of the number of spikes in large Wigner matrices'
 url_code: ""
 url_pdf: ""
 url_slides: ""

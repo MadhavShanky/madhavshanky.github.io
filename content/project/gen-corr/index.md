@@ -5,7 +5,7 @@ summary: 'We construct improved estimators for genetic effects of SNPs on glycem
 tags:
 - all
 - statgen
-title: 'Asymptotic inference in genetic association studies using genetic correlations of glycemic traits'
+title: 'Asymptotic inference for constrained regression'
 url_code: ""
 url_pdf: ""
 url_slides: ""
