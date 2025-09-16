@@ -39,7 +39,7 @@ social:
   link: https://scholar.google.com/citations?user=syPOHT4AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/Madhav1812
+  link: https://github.com/MadhavShanky
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/madhav-sankaranarayanan-31aa8713a/
