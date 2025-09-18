@@ -37,7 +37,7 @@ sections:
       company_url: "https://www.hsph.harvard.edu/"
       date_end: ""
       date_start: "2021-08-01"
-      description: Advised by [Rajarshi Mukherjee](https://scholar.harvard.edu/rajarshi/home)
+      description: Advised by [Rajarshi Mukherjee](https://rajarshi-mukherjee24.github.io/)
       location: Boston, MA, USA
       title: Ph.D. in Biostatistics
     - company: Indian Statistical Institute, Kolkata
