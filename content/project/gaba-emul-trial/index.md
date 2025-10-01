@@ -7,7 +7,7 @@ tags:
 - health
 title: 'Effect of Gabapentin initiation on readmission rates for Medicare beneficiaries'
 url_code: ""
-url_pdf: ""
+url_pdf: "https://www.medrxiv.org/content/10.1101/2025.09.25.25336638v1.full.pdf"
 url_slides: ""
 url_video: ""
 ---
