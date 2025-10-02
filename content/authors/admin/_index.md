@@ -52,7 +52,7 @@ superuser: true
 title: Madhav Sankaranarayanan
 ---
 
-I am a 4th year Ph.D. student in the [Department of Biostatistics, Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/biostatistics/), advised by [Rajarshi Mukherjee](https://rajarshi-mukherjee24.github.io/). My research interests are primarily in the application of high dimensional statistics and random matrix theory to problems in statistical genetics. Prior to joining Harvard, I completed my B.Stat (Hons.) and M.Stat from [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/). 
+I am a 5th year Ph.D. student in the [Department of Biostatistics, Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/biostatistics/), advised by [Rajarshi Mukherjee](https://rajarshi-mukherjee24.github.io/). My research interests are primarily in the application of high dimensional statistics and random matrix theory to problems in statistical genetics. Prior to joining Harvard, I completed my B.Stat (Hons.) and M.Stat from [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/). 
 
 Currently, I am also working as a research assistant at the [Centre for Value-based Health Care and Sciences](https://www.massgeneral.org/neurology/research/value-based-population-health) at [Mass General Brigham](https://www.massgeneralbrigham.org/en), working on projects related to emulated trial designs on the Medicare dataset. This research assistantship is co-advised by [Sebastien Haneuse](https://www.hsph.harvard.edu/profile/sebastien-haneuse/) and [Lidia Moura](https://www.massgeneral.org/doctors/19690/lidia-maria-moura).
 
