@@ -6,9 +6,9 @@ sections:
     title: Biography
     username: admin
   id: about
-- block: portfolio
-  id: projects
-  content:
+# - block: portfolio
+#  id: projects
+#  content:
     title: Projects
     filters:
       folders:
@@ -25,7 +25,7 @@ sections:
           tag: health
         - name: Other
           tag: misc
-  design:
+#  design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
 - block: experience
