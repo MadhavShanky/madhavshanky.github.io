@@ -29,7 +29,7 @@ social:
   icon_pack: fas
   link: 'mailto:madhav_sankaranarayanan@g.harvard.edu'
 - display:
-    header: true
+    header: false
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
