@@ -28,6 +28,30 @@ sections:
 #  design:
 #      # Choose how many columns the section has. Valid values: '1' or '2'.
 #      columns: '1'
+- block: collection
+  id: publications
+  content:
+    title: Publications
+    count: 10
+    page_type: publication     # pulls items from content/publication/**
+    sort: date_desc
+    filters:
+      featured: false
+  design:
+    columns: "2"
+    view: citation             # nice reference-style listing
+- block: collection
+  id: talks
+  content:
+    title: Presentations
+    count: 8
+    page_type: talk            # pulls items from content/talk/**
+    sort: date_desc
+    filters:
+      featured: false
+  design:
+    columns: "2"
+    view: compact              # card/list style; change to "list" if you prefer
 - block: experience
   content:
     date_format: Jan 2006
