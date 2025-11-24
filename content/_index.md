@@ -26,8 +26,8 @@ sections:
 #        - name: Other
 #          tag: misc
 #  design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+#      # Choose how many columns the section has. Valid values: '1' or '2'.
+#      columns: '1'
 - block: experience
   content:
     date_format: Jan 2006
