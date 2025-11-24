@@ -10,7 +10,7 @@ authors:
 - Joseph P Newhouse
 - Sebastien Haneuse
 - Lidia MVR Moura
-date: "2015-09-01T00:00:00Z"
+date: "2025-08-06T00:00:00Z"
 doi: "https://doi.org/10.1111/epi.18594"
 featured: false
 projects: []
@@ -19,7 +19,7 @@ publication_short: ""
 publication_types:
 - article-journal
 publishDate: "2025-08-06T00:00:00Z"
-slides: example
+#slides: example
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes

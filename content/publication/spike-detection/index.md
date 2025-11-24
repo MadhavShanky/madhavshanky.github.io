@@ -4,7 +4,7 @@ authors:
 - admin
 - Soumendu S Mukherjee
 - Rajarshi Mukherjee
-date: "2019-04-07T00:00:00Z"
+date: "2025-11-24T00:00:00Z"
 doi: ""
 featured: false
 #projects:
@@ -19,7 +19,7 @@ publishDate: "2025-11-24T00:00:00Z"
 #  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: Minimax Detection of the Number of Spikes in LargeWigner Matrices
+title: Minimax Detection of the Number of Spikes in Large Wigner Matrices
 url_code: ""
 url_dataset: ""
 url_pdf: https://madhavshanky.github.io/uploads/spike-detection.pdf
