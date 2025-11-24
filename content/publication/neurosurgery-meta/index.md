@@ -20,7 +20,7 @@ publishDate: "2023-11-01T00:00:00Z"
 #summary: Surgical evacuation is the standard treatment for chronic subdural hematomas (CSDHs) but is associated with a high risk of recurrence and readmission. Middle meningeal artery embolization (MMAE) is a novel treatment approach which could be performed upfront or in adjunction to surgical evacuation. MMAE studies are limited by small sample sizes. This study aimed to describe and compare outcomes of MMAE in adjunction to surgery with those of surgery alone on a national level.
 tags:
 - Source Themes
-title: Middle Meningeal Artery Embolization in Adjunction to Surgical Evacuation for Treatment of Subdural Hematomas: A Nationwide Comparison of Outcomes With Isolated Surgical Evacuation
+title: Middle Meningeal Artery Embolization in Adjunction to Surgical Evacuation for Treatment of Subdural Hematomas; A Nationwide Comparison of Outcomes With Isolated Surgical Evacuation
 url_code: ""
 url_dataset: ""
 url_pdf: ""
