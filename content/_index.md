@@ -40,18 +40,18 @@ sections:
   design:
     columns: "2"
     view: citation             # nice reference-style listing
-- block: collection
-  id: talks
-  content:
-    title: Presentations
-    count: 8
-    page_type: talk            # pulls items from content/talk/**
-    sort: date_desc
-    filters:
-      featured: false
-  design:
-    columns: "2"
-    view: compact              # card/list style; change to "list" if you prefer
+#- block: collection
+#  id: talks
+#  content:
+#    title: Presentations
+#    count: 8
+#    page_type: talk            # pulls items from content/talk/**
+#    sort: date_desc
+#    filters:
+#      featured: false
+#  design:
+#    columns: "2"
+#    view: compact              # card/list style; change to "list" if you prefer
 - block: experience
   content:
     date_format: Jan 2006
