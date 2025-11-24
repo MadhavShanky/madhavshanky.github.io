@@ -9,22 +9,22 @@ sections:
 # - block: portfolio
 #  id: projects
 #  content:
-    title: Projects
-    filters:
-      folders:
-        -project
-    sort_by: 'Date'
-    sort_ascending: false
-    default_button_index: 0
-    buttons:
-        - name: All
-          tag: all
-        - name: Statistical Genetics
-          tag: statgen
-        - name: Healthcare
-          tag: health
-        - name: Other
-          tag: misc
+#    title: Projects
+#    filters:
+#      folders:
+#        -project
+#    sort_by: 'Date'
+#    sort_ascending: false
+#    default_button_index: 0
+#    buttons:
+#        - name: All
+#          tag: all
+#        - name: Statistical Genetics
+#          tag: statgen
+#        - name: Healthcare
+#          tag: health
+#        - name: Other
+#          tag: misc
 #  design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
