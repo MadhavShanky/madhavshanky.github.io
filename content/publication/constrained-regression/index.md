@@ -7,7 +7,7 @@ authors:
 - Tamar Sofer
 - Rajarshi Mukherjee
 date: "2025-11-23T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.48550/arXiv.2512.12953"
 featured: false
 #projects:
 #- internal-project
