@@ -14,7 +14,7 @@ date: "2025-08-06T00:00:00Z"
 doi: "https://doi.org/10.1111/epi.18594"
 featured: false
 projects: []
-publication: '*To appear in Epilepsia*'
+publication: '*Epilepsia*'
 publication_short: ""
 publication_types:
 - article-journal
